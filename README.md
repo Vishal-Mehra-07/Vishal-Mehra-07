@@ -1,8 +1,8 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif)](https://github.com/Vishal-Mehra-07)
+[![MasterHead](https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/Vishal-Mehra-07)
 <h1 align="center">Hi 👋, I'm Vishal Singh Mehra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966">
+src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 
 <h3 align="left">Connect with me:</h3>
