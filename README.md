@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+# 💫 About Me: 
+👋 Hi, I’m Vishal Singh Mehra
+🎓 BCA student at Ajeenkya D Y Patil University, Pune
+💻 Learning web development and programming
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalsinghmehra0@gmail.com) 
