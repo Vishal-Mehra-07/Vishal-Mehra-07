@@ -1,6 +1,6 @@
 # 💫 About Me: 
-👋 Hi, I’m Vishal Singh Mehra
-🎓 BCA student at Ajeenkya D Y Patil University, Pune
+👋 Hi, I’m Vishal Singh Mehra<br/>
+🎓 BCA student at Ajeenkya D Y Patil University, Pune<br/>
 💻 Learning web development and programming
 
 ## 🌐 Socials:
